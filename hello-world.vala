@@ -3,3 +3,4 @@ class Sample : Object {
      stdout.printf ("Olá, Mundo! - By: Leonardo-ST\n"); 
   } 
 }
+// This is a comment in Vala.
